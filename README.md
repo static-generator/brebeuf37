@@ -2,6 +2,8 @@
 ### Elijah Sean M. *Tud*
 > Penafrancia molave st.
 
-Favorite guitar players
- Zack wylde
- dave mustaine
+**Favorite guitar players**
+ > Zack wylde
+ > Dave mustaine
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4Fv1MXywtI2L3rZF1mXino?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
